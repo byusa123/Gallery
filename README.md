@@ -27,6 +27,6 @@ contact details
 Email-adress : byusagiselle@gmail.com
 Tel": 0784315067
 ## Screenshot:
-<img src="image/nav.PNG" width="1000">
-<img src="image/body.PNG" width="1000">
-<img src="image/copy.PNG" width="1000">
+<img src="nav.png" width="1000">
+<img src="body.png" width="1000">
+<img src="copy.png" width="1000">
