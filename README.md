@@ -26,3 +26,7 @@ django bootstrap3
 contact details
 Email-adress : byusagiselle@gmail.com
 Tel": 0784315067
+## Screenshot:
+<img src="images/nav.PNG" width="1000">
+<img src="images/body.PNG" width="1000">
+<img src="images/copy.PNG" width="1000">
